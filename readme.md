@@ -5,4 +5,4 @@ Compile with `make`
 
 Run with `make run<XXY>`
 
-    - `make run01a`
+    - make run01a
